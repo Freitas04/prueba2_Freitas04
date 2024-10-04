@@ -32,4 +32,4 @@ Parrafo con **Palabras en negrita** , y *palabras en cursiva*y tambien `En codig
 | Alejandro |	Moreno   |   21   |
 
 ```bash
-git add marjdown.md
+git add markdown.md
