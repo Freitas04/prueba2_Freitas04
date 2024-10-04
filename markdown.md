@@ -6,6 +6,15 @@ Parrafo con **Palabras en negrita** , y *palabras en cursiva*y tambien `En codig
 
 ### Un poco de codigo por aqui
 
+```javascript
+//Funcion para sumar
+function sumar(a, b) {
+return a + b;
+}
+
+let resultado = sumar(5, 3);
+console.log("El resultado es: " + resultado);
+
 **Lista ordenada**
 
 1. Elemento uno
