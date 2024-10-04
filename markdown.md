@@ -25,7 +25,7 @@ Lista ordenada**
 
 [Fichero README](./README.md)
 
-[Fichero README](/home/usuario/Imágenes/githuib.png)
+[Imagen](./githuib.png)
 
 |  Nombre   |  Apellido  |  Edad  |
 |---------- |------------|--------|
