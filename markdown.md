@@ -19,9 +19,9 @@ Parrafo con **Palabras en negrita** , y *palabras en cursiva*y tambien `En codig
 
 [Visita Github](https://github.com/Freitas04?tab=repositories)
 
-[Fichero README](./README.md)
+[Fichero README](README.md)
 
-![Imagen](./githuib.png)
+![Imagen](githuib.png)
 
 |  Nombre   |  Apellido  |  Edad  |
 |---------- |------------|--------|
