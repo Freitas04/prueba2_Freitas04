@@ -21,7 +21,7 @@ Parrafo con **Palabras en negrita** , y *palabras en cursiva*y tambien `En codig
 
 [Fichero README](./README.md)
 
-[Imagen](./githuib.png)
+![Imagen](./githuib.png)
 
 |  Nombre   |  Apellido  |  Edad  |
 |---------- |------------|--------|
