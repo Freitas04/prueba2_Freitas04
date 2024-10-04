@@ -2,7 +2,6 @@
 
 ## Subtítulo
 
-Parrafo con **Palabras en negrita** , y *palabras en cursiva*y tambien `En codigo` .
 
 ### Un poco de codigo por aqui
 
