@@ -6,10 +6,6 @@ Parrafo con **Palabras en negrita** , y *palabras en cursiva*y tambien `En codig
 
 ### Un poco de codigo por aqui
 
-```python
-def hola_mundo():
-    print("Hola Mundo")
-
 **Lista ordenada**
 
 1. Elemento uno
