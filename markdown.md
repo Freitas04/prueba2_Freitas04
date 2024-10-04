@@ -10,7 +10,7 @@ Parrafo con **Palabras en negrita** , y *palabras en cursiva*y tambien `En codig
 def hola_mundo():
     print("Hola Mundo")
 
-Lista ordenada**
+**Lista ordenada**
 
 1. Elemento uno
 2. Elemento dos
