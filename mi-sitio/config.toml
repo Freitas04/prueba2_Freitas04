@@ -1,9 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Mi pagina de prueba"
-
-theme = "Papermod"
+title = "HUGO Web-site"
+theme = "archie"
 
 [params]
-  author = "Hector Ruiz"
-  description = "Esta pagina va a ser de ejemplo"
+  author = "Freias04"
+  description = "Pagina de prueba bb"
