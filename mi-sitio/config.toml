@@ -1,8 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "HUGO Web-site"
-theme = "archie"
-
-[params]
-  author = "Freias04"
-  description = "Pagina de prueba bb"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Pagina de prueba Hugo'
+theme = "PaperMod"
+publishDir = "public"

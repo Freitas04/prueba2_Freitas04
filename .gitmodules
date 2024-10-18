@@ -1,0 +1,6 @@
+[submodule "mi-sitio/themes/themes/PaperMod"]
+	path = mi-sitio/themes/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "mi-sitio/themes/PaperMod"]
+	path = mi-sitio/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
